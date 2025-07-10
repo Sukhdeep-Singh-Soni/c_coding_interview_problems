@@ -1,0 +1,1 @@
+001]How do you implement binary search to find an element in a sorted array?

@@ -1,0 +1,4 @@
+001]How do you total all of the matching integer elements in an array?
+002]How do you reverse an array?
+003]How do you find the maximum element in an array?
+004]How do you sort an array of integers in ascending order?

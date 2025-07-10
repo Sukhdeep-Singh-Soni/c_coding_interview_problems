@@ -1,0 +1,22 @@
+How do you calculate the sum of two integers?
+How do you find the average of numbers in a list?
+How do you check if an integer is even or odd?
+
+#include <stdio.h>
+int rev_int_with_recursion(int n);
+static int rev = 0;
+int main()
+{
+    int num = 6723;
+    rev_int_with_recursion(num);
+    
+    printf("%d\n", rev);
+    return 0;
+}
+// 6723  672 67 6 0            
+int rev_int_with_recursion(int n) {
+	printf("%d ", n);
+	return (rev = 10 * rev + n);
+	if (n > 0)
+	   rev_int_with_recursion(n / 10);
+}

@@ -1,0 +1,36 @@
+001]How do you reverse a string?
+002]How do you determine if a string is a palindrome?
+003]How do you calculate the number of numerical digits in a string?
+004]How do you find the calculate the number of numerical digits in a string?
+005]How do you find the non-matching characters in a string?
+006]How do you find out if the two given strings are anagrams?
+007]How do you calculate the number of vowels and consonants in a string?
+008]Find length of a string without using strlen().
+009]Copy one string to another without strcpy().
+010]Concatinate 2 strings without strcat().
+011]Compare 2 strings without strcmp().
+012]Convert string to upper case or lower case.
+013]Count words in a string.
+014]Count the frequency of each character in a string.
+015]Remove spaces from a string.
+016]Remove duplicate characters from a string.
+017]Remove special characters from a string.
+018]Swap first and last characters of a string.
+019]Toggle case of each character in a string.
+020]Find the first non repeating character in a string.
+021]Find duplicate characters in a string.
+022]Find the largest and smallest word in a string.
+023]Count the occurances of a given word in a string.
+024]Sort characters in a string.
+025]Check if the string contains only digits.
+026]Convert a string to integer (like atoi).
+027]Insert a substring into another string.
+028]Delete a substring from a string.
+029]Find all permutations of a string.
+030]Check for balanced parenthesis in a string.
+031]Longest word in a string.
+032]Find the most frequent character in a string.
+033]Reverse words in a sentence.
+034]Check if one string is a rotation of another.
+035]Relpace all spaces with %20 (like in URLs).
+036]Implement strstr() - find substring inside a string.
